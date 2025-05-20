@@ -115,7 +115,7 @@
 
 }
 }
-@media (max-width: 350px ) {
+@media (max-width: 200px ) {
     .movie-card{
     width: 124px;
     background-color: rgb(34, 34, 34);
