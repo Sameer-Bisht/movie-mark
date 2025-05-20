@@ -68,8 +68,7 @@
 
 @media (max-width: 600px ) {
     .movie-card{
-    width: 130px;
-        width: 181px;
+    width: 184px;
     background-color: rgb(34, 34, 34);
         border-radius: 20px;
         padding: 10px;
