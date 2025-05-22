@@ -1,6 +1,6 @@
 import "./moviecard.css"
 
-const MovieCard = ({name, id, genre, description, img_url,rating})=>{
+const MovieCard = ({name, id, genre, description, img_url,rating,year})=>{
 
     // Helper to count lines in description
  
@@ -16,12 +16,13 @@ const MovieCard = ({name, id, genre, description, img_url,rating})=>{
             <div className="movie-card__details">
                 <section className="movie-card__details_heading">
 
-                <h1 className="movie-card__title gradient">{name}</h1>
+                {name && <h1 className="movie-card__title gradient">{name}</h1>}
                 </section>
-                <p className="movie-genre">{genre && Array.isArray(genre) ? genre.join('-') : genre}</p>
-                <p className="movie-description">{description}</p>
+                {genre && <p className="movie-genre">{genre && Array.isArray(genre) ? genre.join('-') : genre}</p>}
+                {description && <p className="movie-description">{description}</p>}
                
-                <p className="movie-rating">Rating : {rating}</p>
+                {rating && <p className="movie-rating">Rating : {rating}</p>}
+                {year && <p className="movie-rating">Year : {year}</p>}
             </div>
         </div>
     )

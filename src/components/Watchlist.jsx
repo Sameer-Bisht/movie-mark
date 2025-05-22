@@ -4,8 +4,7 @@ import './watchlist.css'
 import Data from  "../api/data.json"
 import Counter from "./Counter.jsx"
 const Watchlist = ({currUser,user,setUser})=>{
-  const userData = Data.users[currUser]
-  console.log(userData)
+  const userData = Data.users[currUser].slice().reverse()
   
      return (
       <>
