@@ -297,6 +297,14 @@
       "rating": "9",
       "description": "Don Vito Corleone, head of a mafia family, decides to hand over his empire to his youngest son, Michael. However, his decision unintentionally puts the lives of his loved ones in grave danger."
 
+},{
+        "name": "The Shawshank Redemption",
+      "id": "theshawshank-redemption",
+      "genre":["Crime","Thriller"],
+      "img_url": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "9",
+      "description": "Andy Dufresne, a successful banker, is arrested for the murders of his wife and her lover, and is sentenced to life imprisonment at the Shawshank prison. He becomes the most unconventional prisoner"
+
     }]
     
             ,
@@ -765,10 +773,10 @@
   },
   {
       "name": "DareDevil",
-    "id": "theshawshank-redemption",
+    "id": "daredevils01",
     "img_url": "https://m.media-amazon.com/images/M/MV5BODcwOTg2MDE3NF5BMl5BanBnXkFtZTgwNTUyNTY1NjM@._V1_SX300.jpg",
     "rating": "6",
-    "description": "Andy Dufresne, a successful banker, is arrested for the murders of his wife and her lover, and is sentenced to life imprisonment at the Shawshank prison. He becomes the most unconventional prisonerned ",
+    "description": " A blind lawyer with heightened senses fights crime in Hell's Kitchen.",
     "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
     "genre": ["Thriller-Crime"],
     "watch_url": "https://www.netflix.com/title/81613592"
@@ -779,7 +787,7 @@
     "id": "theboyandheron",
     "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnm0QLznYrRb2vUjmYL0eu2GlsIMriBNXetQ&s",
     "rating": "8.5",
-    "description": "Andy Dufresne, a successful banker, is arrested for the murders of his wife and her lover, and is sentenced to life imprisonment at the Shawshank prison. He becomes the most unconventional prisonerned ",
+    "description": "  ",
     "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
     "genre": ["Thriller-Crime"],
     "watch_url": "https://www.netflix.com/title/81613592"
@@ -787,7 +795,7 @@
   ,
   {
       "name": "500 days of summer",
-    "id": "theboyandheron",
+    "id": "500daysofsummer",
     "img_url": "https://m.media-amazon.com/images/M/MV5BMTk5MjM4OTU1OV5BMl5BanBnXkFtZTcwODkzNDIzMw@@._V1_FMjpg_UX1000_.jpg",
     "rating": "8.5",
     "description": "Andy Dufresne, a successful banker, is arrested for the murders of his wife and her lover, and is sentenced to life imprisonment at the Shawshank prison. He becomes the most unconventional prisonerned ",

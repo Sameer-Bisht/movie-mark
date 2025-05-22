@@ -15,11 +15,17 @@ const Counter = ({currUser,user,setUser})=>{
         padding: "20px",
         textAlign: "center",
         fontSize: "18px",
-        marginBottom: "20px"
+        marginBottom: "20px",
+        margin:"12px auto",
+        backgroundColor: "linear-gradient(135deg, #EA173F, #A82158)",
+        backgroundColor: "#9292922e",
+        border:"1px solid #3a3a3a",
+        width: "70vw",
+        borderRadius: "10px",
     }
     return(
         <section style={styles} className="counter-nav">
-            <li  style={{ display: "flex", alignItems: "center",justifyContent:"space-between" }}>
+            <li  style={{ display: "flex", alignItems: "center",margin:"auto",justifyContent:"center",gap:"1rem" }}>
           <label htmlFor="">Set User</label>
           <select
           className="user-selection"
