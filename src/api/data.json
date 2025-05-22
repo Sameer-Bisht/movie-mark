@@ -557,7 +557,7 @@
   {
     "name": "The Last of Us",
     "id": "the-last-of-us",
-    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcO4z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "img_url": "https://upload.wikimedia.org/wikipedia/en/4/46/Video_Game_Cover_-_The_Last_of_Us.jpg",
     "rating": "9.0",
     "description": "A smuggler escorts a teenage girl through a post-apocalyptic world.",
     "cast": ["Pedro Pascal", "Bella Ramsey"],
@@ -568,7 +568,7 @@
   {
     "name": "The Revenant",
     "id": "the-revenant",
-    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcP5z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "img_url": "https://upload.wikimedia.org/wikipedia/en/b/b6/The_Revenant_2015_film_poster.jpg",
     "rating": "9.5",
     "description": "A frontiersman seeks revenge after being left for dead in the wilderness.",
     "cast": ["Leonardo DiCaprio", "Tom Hardy", "Will Poulter"],
@@ -579,7 +579,7 @@
   {
     "name": "The Curious Case of Benjamin Button",
     "id": "the-curious-case-of-benjamin-button",
-    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6z9y0_`z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "img_url": "https://upload.wikimedia.org/wikipedia/en/7/7c/The_Curious_Case_of_Benjamin_Button_%28film%29.png",
     "rating": "8.5",
     "description": "A man ages backward, experiencing life in reverse.",
     "cast": ["Brad Pitt", "Cate Blanchett", "Tilda Swinton"],
@@ -590,7 +590,7 @@
   {
     "name": "Spirited Away",
     "id": "spirited-away",
-    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "img_url": "https://upload.wikimedia.org/wikipedia/en/d/db/Spirited_Away_Japanese_poster.png",
     "rating": "9.5",
     "description": "A young girl navigates a magical world to save her parents.",
     "cast": ["Rumi Hiiragi", "Miyu Irino", "Mari Natsuki"],
