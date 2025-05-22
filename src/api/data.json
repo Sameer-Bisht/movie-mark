@@ -286,7 +286,16 @@
       "id": "apurva",
       "img_url": "https://m.media-amazon.com/images/M/MV5BNDUwMGUyOGUtNmYzYi00YTQwLTk3NTktZDk1ODg5NjU2MzZmXkEyXkFqcGc@._V1_SX300.jpg",
       "rating": "7",
-      "description": "Kidnapped by a notorious gang of Chambal dacoits while on her way to meet the man of her dreams, Apurva must overcome extraordinary dangers in order to make her escape and survive"
+      "description": "Kidnapped by a notorious gang of Chambal dacoits while on her way to meet the man of her dreams, Apurva must overcome extraordinary dangers in order to make her escape and survive",
+      "genre":["Action","Thriller"]
+
+    },{
+        "name": "The GodFather",
+      "id": "thegodfather",
+      "genre":["Crime","Drama"],
+      "img_url": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "9",
+      "description": "Don Vito Corleone, head of a mafia family, decides to hand over his empire to his youngest son, Michael. However, his decision unintentionally puts the lives of his loved ones in grave danger."
 
     }]
     
