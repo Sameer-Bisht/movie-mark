@@ -2,10 +2,15 @@
 import MovieCard from "./MovieCard"
 import './watchlist.css'
 import Data from  "../api/data.json"
-const Watchlist = ({currUser})=>{
+import Counter from "./Counter.jsx"
+const Watchlist = ({currUser,user,setUser})=>{
   const userData = Data.users[currUser]
   console.log(userData)
+  
      return (
+      <>
+      <Counter currUser ={currUser} user={user}  setUser={setUser}/>
+      
         <div className="movie-card-container">
     {userData.map((currMovie)=>{
       const {name ,id, genre, img_url, rating,description} = currMovie
@@ -16,6 +21,7 @@ const Watchlist = ({currUser})=>{
     })}
         </div>
 
+    </>
     )
 
 }

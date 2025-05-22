@@ -272,7 +272,21 @@
       "id": "raid2",
       "img_url": "https://m.media-amazon.com/images/M/MV5BZDcwMWZiYjgtYWE5Zi00NDk0LTkyMDctYzgzMzA4YTZlZjBlXkEyXkFqcGc@._V1_SX300.jpg",
       "rating": "7",
-      "description": "Apoorva hides his failed MA from his mother in Bengaluru. Working odd jobs and relying on Swapna, his ability to control blinking becomes a curse when an old man says his father lives."
+      "description": "A Income Tax officer, Amay Patnaik, confronts the corrupt nexus in Bhoj. Beneath the veneer of honesty lies a sinister operation tied to Dada Bhai, a revered politician. As Amay unravels layers of deceit buried in fields and fortresses, one question looms: will justice prevail, or will power silence the truth?"
+
+    },{
+        "name": "Jailer",
+      "id": "jailer",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BMmM3YTNmYTMtNGY3Zi00NzJjLThiN2ItMDQ5ODQ4YmFlY2ZiXkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "7",
+      "description": "Muthuvel Pandian, a retired prison guard, sets out on a quest for revenge after his son goes missing while investigating a smuggling case."
+
+    },{
+        "name": "Apurva",
+      "id": "apurva",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BNDUwMGUyOGUtNmYzYi00YTQwLTk3NTktZDk1ODg5NjU2MzZmXkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "7",
+      "description": "Kidnapped by a notorious gang of Chambal dacoits while on her way to meet the man of her dreams, Apurva must overcome extraordinary dangers in order to make her escape and survive"
 
     }]
     
@@ -710,7 +724,7 @@
   {
     "name": "Barfi",
     "id": "barfi",
-    "img_url": "https://encrypted.tbn0.gstatic.com/images?q:GcE0z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "img_url": "https://m.media-amazon.com/images/M/MV5BMTQzMTEyODY2Ml5BMl5BanBnXkFtZTgwMjA0MDUyMjE@._V1_SX300.jpg",
     "rating": "9.0",
     "description": "A deaf-mute man finds love and joy in a world of challenges.",
     "cast": ["Ranbir Kapoor", "Priyanka Chopra", "Ileana D'Cruz"],
@@ -719,16 +733,38 @@
     "year": 2012
   },
   {
-    "name": "Micky 17",
-    "id": "micky-17",
-    "img_url": "https://encrypted.tbn0.gstatic.com/images?q:GcF1z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "name": "Mickey 17",
+    "id": "mickey-17",
+    "img_url": "https://m.media-amazon.com/images/M/MV5BZGQwYmEzMzktYzBmMy00NmVmLTkyYTUtOTYyZjliZDNhZGVkXkEyXkFqcGc@._V1_SX300.jpg",
     "rating": "6.5",
     "description": "A space colonist repeatedly dies and regenerates on a dangerous mission.",
     "cast": ["Robert Pattinson", "Naomi Ackie", "Mark Ruffalo"],
     "genre": ["Sci-Fi"],
     "watch_url": "https://www.netflix.com/title/81613592",
     "year": 2025
+  },
+  {
+    "name": "The Shawshank Redemption",
+    "id": "theshawshank-redemption",
+    "img_url": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": "9.5",
+    "description": "Andy Dufresne, a successful banker, is arrested for the murders of his wife and her lover, and is sentenced to life imprisonment at the Shawshank prison. He becomes the most unconventional prisonerned ",
+    "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+    "genre": ["Thriller-Crime"],
+    "watch_url": "https://www.netflix.com/title/81613592",
+    "year": 2025
+  },
+  {
+      "name": "The Shawshank Redemption",
+    "id": "theshawshank-redemption",
+    "img_url": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": "9.5",
+    "description": "Andy Dufresne, a successful banker, is arrested for the murders of his wife and her lover, and is sentenced to life imprisonment at the Shawshank prison. He becomes the most unconventional prisonerned ",
+    "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+    "genre": ["Thriller-Crime"],
+    "watch_url": "https://www.netflix.com/title/81613592"
   }
+
 ]
             
 }

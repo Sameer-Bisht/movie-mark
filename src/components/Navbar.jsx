@@ -2,13 +2,15 @@ import { useState } from "react";
 import "./navbar.css";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { ImCross } from "react-icons/im";
-const Navbar = () => {
+import { MdHeight, MdMargin, MdPadding } from "react-icons/md";
+const Navbar = ({user, setUser}) => {
   const [openNav, setOpenNav] = useState({ham:true,navView:false});
   const websiteName = "Film Dekhli"
   //responsive  functionality
   const handleOnHamClick = ()=> { 
     setOpenNav({ham:!openNav.ham,navView:!openNav.navView})
   }
+ 
   if (window.innerWidth > 650) {
     return (
       <nav className="navbar">
@@ -18,8 +20,10 @@ const Navbar = () => {
 
       <ul className="nav-links">
         <li onClick={() => window.location.pathname = "/"} >Home</li>
-        <li>Watchlist</li>
+        <li onClick={() => window.location.pathname = "/watchlist"} >Watchlist</li>
         <li>Movie Reccomendations</li>
+        
+        
       </ul>
       </div>
       </nav>
@@ -44,6 +48,7 @@ const Navbar = () => {
      <li onClick={() => window.location.pathname = "/"} >Home</li>
           <li>Watchlist</li>
           <li >Movie Reccomendations</li>
+          
         </ul>
       </nav>
     );

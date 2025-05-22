@@ -2,10 +2,11 @@ import React from "react";
 
 const Home = () => (
     <div style={styles.container}>
-        <h1 style={styles.title}>Welcome to Movie Watchlist</h1>
+        <h1 style={styles.title}>Welcome to Mark-Movie</h1>
         <p style={styles.subtitle}>
-            Discover, track, and manage your favorite movies all in one place.
+            For Now View Some of the Watchlists
         </p>
+        <a href="/watchlist" style={{ listStyle:"none",textDecoration:"none",color:"white",fontSize:"1.3rem",backgroundColor:'grey',padding:"20px",borderRadius:"1rem"} } >Watchlists</a>
       
     </div>
 );
@@ -22,7 +23,8 @@ const styles = {
         padding: "2rem",
     },
     title: {
-        fontSize: "3rem",
+        fontSize: "1.8rem",
+        textAlign: "center",
         marginBottom: "1rem",
         fontWeight: "bold",
     },
