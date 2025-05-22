@@ -5,7 +5,7 @@ import { ImCross } from "react-icons/im";
 import { MdHeight, MdMargin, MdPadding } from "react-icons/md";
 const Navbar = ({user, setUser}) => {
   const [openNav, setOpenNav] = useState({ham:true,navView:false});
-  const websiteName = "Film Dekhli"
+  const websiteName = "MarkMovie"
   //responsive  functionality
   const handleOnHamClick = ()=> { 
     setOpenNav({ham:!openNav.ham,navView:!openNav.navView})
