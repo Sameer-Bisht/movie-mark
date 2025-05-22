@@ -6,14 +6,14 @@ import { useState } from "react";
 import { SearchMovies } from "./components/SearchMovies.jsx";
 import UpButton from "./components/UpButton.jsx";
 const App = () => {
-    const [user, setUser] = useState("sameer");
+    const [user, setUser] = useState("saurav");
     return (
         <Router>
             <Navbar user = { user} setUser={setUser} />
             <UpButton/>
             <Routes>
                 {/* <Route path="/" element={<Home />} /> */}
-                <Route path="/watchlist" element={<Watchlist currUser={user} user = {user} setUser={setUser} />} />
+                <Route path="/watchlist" element={<Watchlist currUser={user} user={user} setUser={setUser} key={user} />} />
                 <Route path="/" element={<Home/>} />
                 <Route path="/search-movies" element={<SearchMovies/>} />
             </Routes>
