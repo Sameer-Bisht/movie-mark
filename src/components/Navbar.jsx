@@ -46,7 +46,7 @@ const Navbar = ({user, setUser}) => {
           </div>
         <ul className={`nav-links-phone dropdown ${openNav.navView ? "open" : ""}`}>
      <li onClick={() => window.location.pathname = "/"} >Home</li>
-          <li>Watchlist</li>
+         <li onClick={() => window.location.pathname = "/watchlist"} >Watchlist</li>
           <li >Movie Reccomendations</li>
           
         </ul>
