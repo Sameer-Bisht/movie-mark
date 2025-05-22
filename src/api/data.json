@@ -764,10 +764,10 @@
     "year": 2025
   },
   {
-      "name": "The Shawshank Redemption",
+      "name": "DareDevil",
     "id": "theshawshank-redemption",
-    "img_url": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_SX300.jpg",
-    "rating": "9.5",
+    "img_url": "https://m.media-amazon.com/images/M/MV5BODcwOTg2MDE3NF5BMl5BanBnXkFtZTgwNTUyNTY1NjM@._V1_SX300.jpg",
+    "rating": "6",
     "description": "Andy Dufresne, a successful banker, is arrested for the murders of his wife and her lover, and is sentenced to life imprisonment at the Shawshank prison. He becomes the most unconventional prisonerned ",
     "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
     "genre": ["Thriller-Crime"],
