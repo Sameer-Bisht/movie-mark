@@ -22,7 +22,7 @@ const MovieCard = ({name, id, genre, description, img_url,rating,year})=>{
                 {description && <p className="movie-description">{description}</p>}
                
                 {rating && <p className="movie-rating">Rating : {rating}</p>}
-                {year && <p className="movie-rating">Year : {year}</p>}
+                {year && <p className="movie-rating">Release {year}</p>}
             </div>
         </div>
     )
