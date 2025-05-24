@@ -11,8 +11,8 @@ const Watchlist = ({currUser,user,setUser})=>{
   const userData = Data.users[currUser].slice().reverse()
    
 
-      const fetchData = async (searchTerm) => { 
-        const url = `https://www.omdbapi.com/?i=tt3896198&apikey=4fb4bf47&s=${searchTerm}`;
+      const fetchData = async (searchTerm,searchYear) => { 
+        const url = `https://www.omdbapi.com/?i=tt3896198&apikey=4fb4bf47&s=${searchTerm}&y=${searchYear}`;
         const res = await fetch(url);
         const data = await res.json();
         return data.Search;
@@ -21,7 +21,8 @@ const Watchlist = ({currUser,user,setUser})=>{
         const fetchAllData = async () => {
           const movies = await Promise.all(
             userData.map(async (currMovie) => {
-              const data = await fetchData(currMovie.name);
+              const data = await fetchData(currMovie.name,currMovie.year && currMovie.year);
+              console.log(data);
               if (data && data[0]) {
                 if(data[0].Poster && data[0].Poster === "N/A"){
                   return { ...currMovie, img_url: currMovie.img_url, year: data[0].Year };
