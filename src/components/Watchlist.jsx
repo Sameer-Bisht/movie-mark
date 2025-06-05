@@ -12,7 +12,7 @@ const Watchlist = ({currUser,user,setUser})=>{
    
 
       const fetchData = async (searchTerm,searchYear) => { 
-        const url = `https://www.omdbapi.com/?i=tt3896198&apikey=4fb4bf47&s=${searchTerm}&y=${searchYear}&i=${searchTerm.imdbid}&plot=full`;
+        const url = `https://www.omdbapi.com/?i=tt3896198&apikey=4fb4bf47&s=${searchTerm}&y=${searchYear}`;
         const res = await fetch(url);
         const data = await res.json();
         return data.Search;

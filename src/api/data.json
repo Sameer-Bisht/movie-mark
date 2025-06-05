@@ -313,7 +313,7 @@
       "id": "bhoolchukmaaf",
       "genre": ["Comedy","Drama"],
       "img_url": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_SX300.jpg",
-      "rating": "7",
+      "rating": "6",
       "description": " Ranjan, a small-town romantic boy from Banaras, lands a government job to marry Titli but forgets his vow to Lord Shiva-only to be trapped until he fulfills his promise. A hilarious tale of love, fate, and redemption unfolds"
 
     },{
@@ -330,7 +330,47 @@
       "genre": ["Comedy","Drama"],
       "img_url": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_SX300.jpg",
       "rating": "8",
-      "description": " Ranjan, a small-town romantic boy from Banaras, lands a government job to marry Titli but forgets his vow to Lord Shiva-only to be trapped until he fulfills his promise. A hilarious tale of love, fate, and redemption unfolds"
+      "description": " A family of self-centered individuals sets out on a journey to fulfill their grandfather's pilgrimage wish, partly to prevent his frequent escapes and partly to find a distraction from their personal problems."
+
+    },{
+        "name": "Crazxy",
+      "id": "crazxy",
+      "genre": ["Thriller","Drama"],
+      "img_url": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "6",
+      "description": " When Abhimanyu Sood, a renowned surgeon, gets a chilling phone call-his 16-year-old daughter, Vedica, has been kidnapped, he carries 5 Crores for a settlement that will save him from going to jail. Is this a real kidnapping or an elaborate trap?"
+
+    },{
+        "name": "Tumbbad",
+      "id": "tumbbad",
+      "genre": ["Horror","Fantasy"],
+      "img_url": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "8.7",
+      "description": " When a family builds a shrine for Hastar, a monster who is never to be worshipped, and attempts to get their hands on his cursed wealth, they face catastrophic consequences"
+
+    },{
+        "name": "Tourist Family",
+      "id": "tourist-family",
+      "genre": ["comedy","drama"],
+      "img_url": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "8",
+      "description": " tourist family is a comedy-drama that follows the misadventures of a dysfunctional family on a vacation gone wrong. As they navigate through unexpected challenges, they learn to appreciate each other's quirks and strengthen their bonds."
+
+    },{
+        "name": "ayyana mane",
+      "id": "ayyan-mane",
+      "genre": ["Thriller","drama"],
+      "img_url": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "7",
+      "description": "  Ayyana Mane is a 2025 Kannada-language crime thriller series directed by Ramesh Indira and produced by Shruthi Naidu Productions. It stars Kushee Ravi, Akshya Nayak, Manasi Sudhir, Vijay Shobraj, and Ramesh Indira himself.   "
+
+    },{
+        "name": "Pad Man",
+      "id": "pad-man",
+      "genre": ["comedy","drama"],
+      "img_url": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "7",
+      "description": " Laxmikant is upset when he sees Gayatri, his wife, using an unhygienic cloth during her menstrual cycle. Thereafter, he creates a machine that can make affordable sanitary pads and raises awareness"
 
     }]
     
