@@ -325,6 +325,14 @@
       "description": " Ranjan, a small-town romantic boy from Banaras, lands a government job to marry Titli but forgets his vow to Lord Shiva-only to be trapped until he fulfills his promise. A hilarious tale of love, fate, and redemption unfolds"
 
     },{
+        "name": "Sapta Sagaradaache Ello side B",
+      "id": "saptasagaradaache-ello-sideb",
+      "genre": ["Romance","Drama"],
+      "img_url": "https://m.media-amazon.com/images/M/MV5BYjYyOTRkYTItNDNjMi00YmNiLTk4NzAtYTY1MGQ3N2M0NzYwXkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "8.5",
+      "description": " Manu is released from jail after 10 years and starts to rebuild his life, but when memories of Priya haunt him, he wants to enter her life once again"
+
+    },{
         "name": "Falimy",
       "id": "falimy",
       "genre": ["Comedy","Drama"],
