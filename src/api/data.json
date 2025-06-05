@@ -372,6 +372,22 @@
       "rating": "7",
       "description": " Laxmikant is upset when he sees Gayatri, his wife, using an unhygienic cloth during her menstrual cycle. Thereafter, he creates a machine that can make affordable sanitary pads and raises awareness"
 
+    },{
+        "name": "Ponman",
+      "id": "pon-man",
+      "genre": ["black-comedy","thriller"],
+      "img_url": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "7",
+      "description": " Gold dealer Ajesh lends precious sovereigns for a village wedding, but finds himself in danger when the bride's criminal husband schemes to keep the gold and silence him forever."
+
+    },{
+        "name": "Thappad",
+      "id": " thappad",
+      "genre": ["drama","thriller"],
+      "img_url": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "7",
+      "description": " Amrita, a young woman, leads a content life with her husband, Vikram. However, their happiness is shattered when he slaps her at an office party causing her to file for a divorce.."
+
     }]
     
             ,
