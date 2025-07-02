@@ -2,16 +2,7 @@
     
 "users":{
 
-                "sameer":[{
-      "name": "The Wild Robot",
-      "id": "the-wild-robot",
-      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiNe6RMf9IjyZysISoqyWIScpM_OGFXgYNkw&s",
-      "rating": "9",
-      "description": "An intelligent robot finds herself alone on an island and must learn to survive in the wilderness.",
-      "cast": ["Lupita Nyong'o", "Pedro Pascal"],
-      "genre": ["Animation", "Adventure", "Family"],
-      "watch_url": "N/A"
-    },
+                "sameer":[
     {
       "name": "Kabhi Khushi Kabhi Gham",
       "id": "kabhi-khushi-kabhie-gham",
@@ -31,6 +22,15 @@
       "cast": ["Shah Rukh Khan", "Gayatri Joshi"],
       "genre": ["Drama"],
       "watch_url": "https://www.netflix.com/in/title/70022393"
+    },{
+      "name": "The Wild Robot",
+      "id": "the-wild-robot",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiNe6RMf9IjyZysISoqyWIScpM_OGFXgYNkw&s",
+      "rating": "9",
+      "description": "An intelligent robot finds herself alone on an island and must learn to survive in the wilderness.",
+      "cast": ["Lupita Nyong'o", "Pedro Pascal"],
+      "genre": ["Animation", "Adventure", "Family"],
+      "watch_url": "N/A"
     },
     {
       "name": "Dil Se",
@@ -894,6 +894,12 @@
     "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
     "genre": ["Thriller-Crime"],
     "watch_url": "https://www.netflix.com/title/81613592"
+  },
+  {
+    "name": "Kadakh",
+    "description":"jfa;lsjf;ljal;sdf",
+    "id": "kadakh",
+    "year":"2019"
   }
 
 ]
